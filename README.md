@@ -1,4 +1,7 @@
 # chapo-bot-sitesi
 Discord Bot Sitesi İçin Uyumlu Web Site Tasarımı
 
-Düzenliceğiniz Yerler # q
+Düzenliceğiniz Satırlar :
+
+**1**
+
